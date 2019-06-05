@@ -1,0 +1,27 @@
+- defaults:
+    link:
+      create: true
+      relink: true
+
+- clean: ['~', '~/.config']
+
+- link:
+    ~/.ackrc:
+    ~/.curlrc:
+    ~/.gitconfig:
+    ~/.vim:
+    ~/.vimrc:
+    ~/.zprezto: prezto
+    ~/.zshtheme: zshtheme
+    ~/.zlogin:
+    ~/.zlogout:
+    ~/.zpreztorc:
+    ~/.zprofile:
+    ~/.zshenv:
+    ~/.zshrc:
+
+- shell:
+  - git submodule update --init --recursive
+
+
+

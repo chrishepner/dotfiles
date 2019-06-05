@@ -1,0 +1,9 @@
+[submodule "dotbot"]
+	path = dotbot
+	url = https://github.com/anishathalye/dotbot
+[submodule "powerlevel10k"]
+	path = zshtheme/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k.git
+[submodule "prezto"]
+	path = prezto
+	url = https://github.com/sorin-ionescu/prezto.git
