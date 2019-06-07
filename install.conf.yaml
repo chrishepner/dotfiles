@@ -8,6 +8,8 @@
 - link:
     ~/.ackrc:
     ~/.curlrc:
+    ~/.tmux.conf:
+    ~/.tmux-osx.conf:
     ~/.hushlogin:
     ~/.gitconfig:
     ~/.vim:
