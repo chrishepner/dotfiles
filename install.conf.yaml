@@ -12,6 +12,7 @@
     ~/.tmux-osx.conf:
     ~/.hushlogin:
     ~/.gitconfig:
+    ~/.config/i3: i3
     ~/.vim:
     ~/.vimrc:
     ~/.zprezto: prezto
